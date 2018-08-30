@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/gcanti/tcomb-validation",
   "dependencies": {
-    "tcomb": "^3.0.0"
+    "tcomb": "https://github.com/srikar0896/tcomb/tarball/master"
   },
   "devDependencies": {
     "eslint": "0.22.1",
